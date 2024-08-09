@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    border: 2px solid;
+    background-color: azure;
+    width: 550px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.search{
+    margin-left: 800px;
+}
+ul{
+    list-style: none;
+   
+  
+}
+
+   li{
+    width: 100px;
+    height:100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: azure;
+    display: inline;
+    margin-right: 20px;
+   }
+   li:hover{
+    color: brown;
+    background-color: aqua;
+   }
+   div{
+    text-align: center;
+
+   }

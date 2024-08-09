@@ -1,0 +1,41 @@
+.A{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 100%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+
+}
+.B{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(21, 255, 0);
+    border-radius: 100%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    
+
+}
+.C{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 13, 255);
+    border-radius: 100%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+
+}
+.D{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 251, 0);
+    border-radius: 100%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+
+}
